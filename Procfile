@@ -1,0 +1,1 @@
+web: gunicorn AwiseBackend.wsgi --log-file -
